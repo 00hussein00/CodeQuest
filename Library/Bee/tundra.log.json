@@ -1,0 +1,172 @@
+{"msg":"init","dagFile":"Library/Bee/Playercda57866.dag","targets":["Player"]}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"Player","enqueuedNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/globalgamemanagers","enqueuedNodeIndex":1,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/globalgamemanagers.assets","enqueuedNodeIndex":2,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/globalgamemanagers.assets.resS","enqueuedNodeIndex":3,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/level0","enqueuedNodeIndex":4,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/level1","enqueuedNodeIndex":5,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/level2","enqueuedNodeIndex":6,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/level3","enqueuedNodeIndex":7,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/level4","enqueuedNodeIndex":8,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/resources.assets","enqueuedNodeIndex":9,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/resources.assets.resS","enqueuedNodeIndex":10,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Resources/unity_builtin_extra","enqueuedNodeIndex":11,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/RuntimeInitializeOnLoads.json","enqueuedNodeIndex":12,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/ScriptingAssemblies.json","enqueuedNodeIndex":13,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets0.assets","enqueuedNodeIndex":14,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets0.assets.resS","enqueuedNodeIndex":15,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets0.resource","enqueuedNodeIndex":16,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets1.assets","enqueuedNodeIndex":17,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets1.assets.resS","enqueuedNodeIndex":18,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets1.resource","enqueuedNodeIndex":19,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets2.assets","enqueuedNodeIndex":20,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets2.assets.resS","enqueuedNodeIndex":21,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets2.resource","enqueuedNodeIndex":22,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets3.assets","enqueuedNodeIndex":23,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets3.assets.resS","enqueuedNodeIndex":24,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets3.resource","enqueuedNodeIndex":25,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets4.assets","enqueuedNodeIndex":26,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets4.assets.resS","enqueuedNodeIndex":27,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/sharedassets4.resource","enqueuedNodeIndex":28,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/boot.config","enqueuedNodeIndex":31,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config","enqueuedNodeIndex":30,"enqueueingNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/boot.config","enqueueingNodeIndex":31}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info","enqueuedNodeIndex":29,"enqueueingNodeAnnotation":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config","enqueueingNodeIndex":30}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.AIModule.dll","enqueuedNodeIndex":32,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.ARModule.dll","enqueuedNodeIndex":33,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.AccessibilityModule.dll","enqueuedNodeIndex":34,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.AndroidJNIModule.dll","enqueuedNodeIndex":35,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.AnimationModule.dll","enqueuedNodeIndex":36,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.AssetBundleModule.dll","enqueuedNodeIndex":37,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.AudioModule.dll","enqueuedNodeIndex":38,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.ClothModule.dll","enqueuedNodeIndex":39,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.ClusterInputModule.dll","enqueuedNodeIndex":40,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.ClusterRendererModule.dll","enqueuedNodeIndex":41,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.ContentLoadModule.dll","enqueuedNodeIndex":42,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.CoreModule.dll","enqueuedNodeIndex":43,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.CrashReportingModule.dll","enqueuedNodeIndex":44,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.DSPGraphModule.dll","enqueuedNodeIndex":45,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.DirectorModule.dll","enqueuedNodeIndex":46,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.GIModule.dll","enqueuedNodeIndex":47,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.GameCenterModule.dll","enqueuedNodeIndex":48,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.GridModule.dll","enqueuedNodeIndex":49,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.HotReloadModule.dll","enqueuedNodeIndex":50,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.IMGUIModule.dll","enqueuedNodeIndex":51,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.ImageConversionModule.dll","enqueuedNodeIndex":52,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.InputLegacyModule.dll","enqueuedNodeIndex":53,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.InputModule.dll","enqueuedNodeIndex":54,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.JSONSerializeModule.dll","enqueuedNodeIndex":55,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.LocalizationModule.dll","enqueuedNodeIndex":56,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.NVIDIAModule.dll","enqueuedNodeIndex":57,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.ParticleSystemModule.dll","enqueuedNodeIndex":58,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.PerformanceReportingModule.dll","enqueuedNodeIndex":59,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.Physics2DModule.dll","enqueuedNodeIndex":60,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.PhysicsModule.dll","enqueuedNodeIndex":61,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.ProfilerModule.dll","enqueuedNodeIndex":62,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.PropertiesModule.dll","enqueuedNodeIndex":63,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll","enqueuedNodeIndex":64,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.ScreenCaptureModule.dll","enqueuedNodeIndex":65,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.SharedInternalsModule.dll","enqueuedNodeIndex":66,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.SpriteMaskModule.dll","enqueuedNodeIndex":67,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.SpriteShapeModule.dll","enqueuedNodeIndex":68,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.StreamingModule.dll","enqueuedNodeIndex":69,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.SubstanceModule.dll","enqueuedNodeIndex":70,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.SubsystemsModule.dll","enqueuedNodeIndex":71,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.TLSModule.dll","enqueuedNodeIndex":72,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.TerrainModule.dll","enqueuedNodeIndex":73,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.TerrainPhysicsModule.dll","enqueuedNodeIndex":74,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll","enqueuedNodeIndex":75,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll","enqueuedNodeIndex":76,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.TextRenderingModule.dll","enqueuedNodeIndex":77,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.TilemapModule.dll","enqueuedNodeIndex":78,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UIElementsModule.dll","enqueuedNodeIndex":79,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UIModule.dll","enqueuedNodeIndex":80,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UmbraModule.dll","enqueuedNodeIndex":81,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll","enqueuedNodeIndex":82,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UnityAnalyticsModule.dll","enqueuedNodeIndex":83,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UnityConnectModule.dll","enqueuedNodeIndex":84,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UnityCurlModule.dll","enqueuedNodeIndex":85,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UnityTestProtocolModule.dll","enqueuedNodeIndex":86,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll","enqueuedNodeIndex":87,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll","enqueuedNodeIndex":88,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UnityWebRequestModule.dll","enqueuedNodeIndex":89,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll","enqueuedNodeIndex":90,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll","enqueuedNodeIndex":91,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.VFXModule.dll","enqueuedNodeIndex":92,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.VRModule.dll","enqueuedNodeIndex":93,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.VehiclesModule.dll","enqueuedNodeIndex":94,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.VideoModule.dll","enqueuedNodeIndex":95,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.VirtualTexturingModule.dll","enqueuedNodeIndex":96,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.WindModule.dll","enqueuedNodeIndex":97,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.XRModule.dll","enqueuedNodeIndex":98,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.dll","enqueuedNodeIndex":99,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Assembly-CSharp.dll","enqueuedNodeIndex":100,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.2D.IK.Runtime.dll","enqueuedNodeIndex":101,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.Burst.dll","enqueuedNodeIndex":102,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.VisualScripting.Core.dll","enqueuedNodeIndex":103,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.2D.Animation.Runtime.dll","enqueuedNodeIndex":104,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.2D.Tilemap.Extras.dll","enqueuedNodeIndex":105,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.VisualScripting.Flow.dll","enqueuedNodeIndex":106,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.InternalAPIEngineBridge.001.dll","enqueuedNodeIndex":107,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.2D.Common.Runtime.dll","enqueuedNodeIndex":108,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.Timeline.dll","enqueuedNodeIndex":109,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/UnityEngine.UI.dll","enqueuedNodeIndex":110,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.Collections.dll","enqueuedNodeIndex":111,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.2D.SpriteShape.Runtime.dll","enqueuedNodeIndex":112,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.2D.PixelPerfect.dll","enqueuedNodeIndex":113,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.Mathematics.dll","enqueuedNodeIndex":114,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.TextMeshPro.dll","enqueuedNodeIndex":115,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.VisualScripting.State.dll","enqueuedNodeIndex":116,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Cinemachine.dll","enqueuedNodeIndex":117,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll","enqueuedNodeIndex":118,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll","enqueuedNodeIndex":119,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Unity.Burst.Unsafe.dll","enqueuedNodeIndex":120,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Runtime.dll","enqueuedNodeIndex":121,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/netstandard.dll","enqueuedNodeIndex":122,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/Mono.Security.dll","enqueuedNodeIndex":123,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.ComponentModel.Composition.dll","enqueuedNodeIndex":124,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Configuration.dll","enqueuedNodeIndex":125,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Core.dll","enqueuedNodeIndex":126,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Data.DataSetExtensions.dll","enqueuedNodeIndex":127,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Data.dll","enqueuedNodeIndex":128,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Drawing.dll","enqueuedNodeIndex":129,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.EnterpriseServices.dll","enqueuedNodeIndex":130,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.IO.Compression.FileSystem.dll","enqueuedNodeIndex":131,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.IO.Compression.dll","enqueuedNodeIndex":132,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Net.Http.dll","enqueuedNodeIndex":133,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Numerics.dll","enqueuedNodeIndex":134,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Runtime.Serialization.dll","enqueuedNodeIndex":135,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Security.dll","enqueuedNodeIndex":136,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.ServiceModel.Internals.dll","enqueuedNodeIndex":137,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Transactions.dll","enqueuedNodeIndex":138,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Xml.Linq.dll","enqueuedNodeIndex":139,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.Xml.dll","enqueuedNodeIndex":140,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/System.dll","enqueuedNodeIndex":141,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Managed/mscorlib.dll","enqueuedNodeIndex":142,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Plugins/x86_64/lib_burst_generated.dll","enqueuedNodeIndex":144,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker","enqueuedNodeIndex":143,"enqueueingNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Plugins/x86_64/lib_burst_generated.dll","enqueueingNodeIndex":144}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/app.info","enqueuedNodeIndex":146,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info","enqueuedNodeIndex":145,"enqueueingNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/app.info","enqueueingNodeIndex":146}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest_Data/Resources/unity default resources","enqueuedNodeIndex":147,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/Code Quest.exe","enqueuedNodeIndex":148,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll","enqueuedNodeIndex":149,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll","enqueuedNodeIndex":150,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser","enqueuedNodeIndex":151,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx","enqueuedNodeIndex":152,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/2.0/machine.config","enqueuedNodeIndex":153,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/2.0/settings.map","enqueuedNodeIndex":154,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/2.0/web.config","enqueuedNodeIndex":155,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser","enqueuedNodeIndex":156,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx","enqueuedNodeIndex":157,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/4.0/machine.config","enqueuedNodeIndex":158,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/4.0/settings.map","enqueuedNodeIndex":159,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/4.0/web.config","enqueuedNodeIndex":160,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser","enqueuedNodeIndex":161,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx","enqueuedNodeIndex":162,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/4.5/machine.config","enqueuedNodeIndex":163,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/4.5/settings.map","enqueuedNodeIndex":164,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/4.5/web.config","enqueuedNodeIndex":165,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/browscap.ini","enqueuedNodeIndex":166,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/config","enqueuedNodeIndex":167,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/MonoBleedingEdge/etc/mono/mconfig/config.xml","enqueuedNodeIndex":168,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/UnityCrashHandler64.exe","enqueuedNodeIndex":169,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles E:/CQ/UnityPlayer.dll","enqueuedNodeIndex":170,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":171}
