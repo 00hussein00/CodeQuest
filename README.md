@@ -1,4 +1,4 @@
-![image](https://github.com/00hussein00/CodeQuest/assets/107136547/d6dc5fc4-d325-4b61-bf94-772b7829a1bb)"A journey through the world of programming and educational adventure".
+"A journey through the world of programming and educational adventure".
 - "Code Quest" represents a new gateway to a learning experience, blending academic and fun elements in a modern and fun way.
 - “Code Quest” offers an extensive educational journey that takes players on a whimsical journey through rich digital worlds, punctuated by intense procedural puzzles and thrilling quests.
 - "Code Quest" reimagines players as explorers venturing into uncharted territories of design, dealing with a variety of mental stimuli ensuring plenty and exciting fun every time players begin play.
