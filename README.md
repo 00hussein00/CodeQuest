@@ -37,8 +37,6 @@ Diagram
 
 ![Screenshot 2024-06-16 142811](https://github.com/00hussein00/CodeQuest/assets/107136547/7d055c50-ffe8-480f-81f2-37ab87c6a87d)
 
-3) Download game
-   https://hussein-000.itch.io/codequest
    
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -48,10 +46,13 @@ For more information see this report
 
 
 
-Demo Video
+- Demo Video
+    https://youtu.be/a6s-8_mjm1Y?si=Wyr1fD-oF1Qo3yHC
 
-https://youtu.be/a6s-8_mjm1Y?si=Wyr1fD-oF1Qo3yHC
 
+  
+- Download game
+   https://hussein-000.itch.io/codequest
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 used unity to do it
